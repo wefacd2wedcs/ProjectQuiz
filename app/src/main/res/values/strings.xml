@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Financial Aid Quiz</string>
+
+    <!-- Hint text display in the empty field for Question 1 -->
+    <string name="q1_answer">Answer</string>
+
+    <!-- Hint text display in the empty field for Question 3 -->
+    <string name="q3_answer">Mascot Name</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Whipped cream</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="quantity">Quantity</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
+    <string name="quantity_num">1</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
+    <string name="submit">Submit Answers</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
+    <string name="price_num">Price:</string>
+
+    <!-- Question 1 -->
+    <string name="q1">1. What does the first \'F\' in FAFSA stand for?</string>
+
+    <!-- Question 2 -->
+    <string name="q2">2. Do you have to pay back a grant?</string>
+
+    <!-- Question 3 Answer yes -->
+    <string name="yes">Yes</string>
+
+    <!-- Question 3 Answer no -->
+    <string name="no">No</string>
+
+    <!-- Question 3 -->
+    <string name="q3">3. Name the Southern Oregon University mascot.</string>
+
+    <!-- Question 4 -->
+    <string name="q4">4. Name the four ways you can communicate with the SOU Office of Financial Aid.</string>
+
+    <!-- Question 4 Answer 1-->
+    <string name="q4a1">Phone</string>
+
+    <!-- Question 4 Answer 2 -->
+    <string name="q4a2">Twitter</string>
+
+    <!-- Question 4 Answer 3 -->
+    <string name="q4a3">Facebook</string>
+
+    <!-- Question 4 Answer 4 -->
+    <string name="q4a4">In-person</string>
+
+    <!-- Question 4 Answer 5 -->
+    <string name="q4a5">Email</string>
+
+    <!-- Question 4 Answer 6 -->
+    <string name="q4a6">The Southern Oregon University Mobile App</string>
+</resources>
