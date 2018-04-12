@@ -7,26 +7,8 @@
     <!-- Hint text display in the empty field for Question 3 -->
     <string name="q3_answer">Mascot Name</string>
 
-    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="toppings">Toppings</string>
-
-    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="whipped_cream">Whipped cream</string>
-
-    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="chocolate">Chocolate</string>
-
-    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="quantity">Quantity</string>
-
-    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
-    <string name="quantity_num">1</string>
-
-    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
+    <!-- Submit Answers button text -->
     <string name="submit">Submit Answers</string>
-
-    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=5] -->
-    <string name="price_num">Price:</string>
 
     <!-- Question 1 -->
     <string name="q1">1. What does the first \'F\' in FAFSA stand for?</string>
